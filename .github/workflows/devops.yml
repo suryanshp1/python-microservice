@@ -24,4 +24,4 @@ jobs:
         #make test
     - name: Format Code
       run: |
-        #make format
+        make format
