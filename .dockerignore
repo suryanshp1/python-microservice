@@ -1,0 +1,17 @@
+# Development-specific files
+venv/
+.env
+*.env
+
+# Build artifacts
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Data directories
+data/
+
+# Temporary files
+*.tmp
