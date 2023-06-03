@@ -1,7 +1,5 @@
 # Development-specific files
 venv/
-.env
-*.env
 
 # Build artifacts
 *.pyc
